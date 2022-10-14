@@ -1,2 +1,6 @@
 # RedacaoNota1000
-redação
+Site feito para minha irmã Thalyne Menezes, Sucesso Gata!
+
+![preview](https://i.imgur.com/RkjnwuK.png)
+
+## 💛💛💛💛💛

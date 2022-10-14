@@ -1,0 +1,83 @@
+Version: 4.9.1
+   - Bootstrap atualizado para a versão 5.2.2
+   - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+
+Versão: 4.9.0
+  - Bootstrap atualizado para a versão 5.2.1
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+  - Melhoria do PHP Email From library para ignorar as respostas do cabeçalho do servidor como 409
+
+Versão: 4.8.0
+  - Bootstrap atualizado para a versão 5.2.0
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+
+Versão: 4.7.0
+  - Bootstrap atualizado para a versão 5.1.3
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+
+Versão: 4.6.0
+  - Bootstrap atualizado para a versão 5.1.2
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+
+Versão: 4.5.0
+  - Corrigido o problema do controle deslizante nas seções de depoimentos e detalhes do portfólio
+
+Versão: 4.4.0
+  - Bootstrap atualizado para a versão 5.1.1
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+  - Scripts gulp de versão dev aprimorados e atualizados
+
+Versão: 4.3.0
+  - Bootstrap atualizado para a versão 5.0.1
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+  - Correção da cor do foco dos links de navegação
+
+Versão: 4.2.0
+  - Bootstrap atualizado para a versão 5.0.0 Final
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+
+Versão: 4.1.0
+  - Bootstrap atualizado para a versão 5.0.0-beta3
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+  - Atualizado o formulário de e-mail PHP para V3.1
+
+Versão: 4.0.1
+  - Bootstrap atualizado para a versão 5.0.0-beta2
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+
+Versão: 4.0.0
+  - O modelo não requer mais jQuery
+  - Removido jQuery e todos os plugins jQuery
+  - O assets/js/main.js foi totalmente reescrito com Javascript vanilla. Não há mais código jQuery
+  - Reestruturou a versão dev para melhor experiência de desenvolvimento
+  - Atualizado o PHP Email Form para V3.0 - Sem dependência de jQuery. Adicionado suporte para anexos
+
+Versão: 3.0.0
+  - Lançamento inicial com Bootstrap v5.0 Beta 1
+
+Versão: 2.3.0
+  - Bootstrap atualizado para a versão 4.5.3
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+  - Atualizado o formulário de e-mail PHP para v2.3
+  - Outras pequenas correções e melhorias
+
+Versão: 2.2.0
+  - Bootstrap atualizado para a versão 4.5.0
+  - Atualizada a biblioteca PHP Email Form para a versão 2.0 com suporte reCaptcha
+  - Adicionado rolagem suave no carregamento da página com links de hash na url
+  - Substituída a animação WOW na biblioteca de rolagem por AOS
+  - Atualizadas todas as bibliotecas desatualizadas de fornecedores terceirizados para suas versões mais recentes
+  - Outras pequenas correções e melhorias
+  
+Versão: 2.1.0
+  - Renomeamos os nomes da seção de patrocinadores para parceiros. Adblockers estão bloqueando imagens que contêm string "patrocinador" nelas
+  - Adicionado estado ativo de navegação na rolagem para a navegação principal
+  - Atualizadas as bibliotecas jQuery e Venobox para suas versões mais recentes
+
+Versão: 2.0.0
+  - O modelo foi reconstruído do zero com a versão mais recente do Bootstrap (4.4.1)
+  - Adicionado suporte SMPTP para o script do formulário de contato (Pro)
+  - Adicionada versão NodeJS NPM Development (Membros Pro ilimitados e membros)
+  
+Versão: 1.0.0
+- Lançamento inicial

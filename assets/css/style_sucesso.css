@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background: #fff;
+  color: #6687ff;
+}
+
+h1{
+  text-align: center;
+  align-items: center;
+}

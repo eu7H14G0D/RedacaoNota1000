@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <!-- Template Main CSS File -->
+  <link href="assets/css/style_sucesso.css" rel="stylesheet">
+    <title>Email enviado!</title>
+</head>
+<body>
+  <h1><a href="index.html"><img src="assets/img/sucesso-bg.gif"></a></h1>
+
+    <!-- Script de redirecionamento automático -->
+    <h1 id="counterarea"></h1>
+
+    <script>
+
+        var counter;
+        counter = 3;
+        setInterval(function () {
+          counter = counter - 1;
+          document.getElementById("counterarea").innerHTML = counter;
+          if(counter === 0){
+            window.location.href = 'http://redacaonota1000.com#contato';
+          }
+        }, 1000);
+        
+    </script>
+    <!-- Script de redirecionamento automático End -->
+</body>
+</html>
